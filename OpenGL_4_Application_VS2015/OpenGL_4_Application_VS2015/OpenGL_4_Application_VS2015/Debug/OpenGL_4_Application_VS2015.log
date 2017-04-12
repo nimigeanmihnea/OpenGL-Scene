@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Shader.cpp
+  OpenGL_4_Application_VS2015.cpp
+d:\facultate\proiect spg\nimigean_mihnea_30237\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(12): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Model3D.cpp
+d:\facultate\proiect spg\nimigean_mihnea_30237\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015\mesh.hpp(13): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Mesh.cpp
+d:\facultate\proiect spg\nimigean_mihnea_30237\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015\mesh.hpp(13): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Camera.cpp
+d:\facultate\proiect spg\nimigean_mihnea_30237\opengl_4_application_vs2015\opengl_4_application_vs2015\opengl_4_application_vs2015\camera.hpp(12): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Generating Code...

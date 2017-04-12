@@ -1,0 +1,35 @@
+# 
+# 
+newmtl tree_oak_leaf_tree_oak_leaf_d.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd tree_oak_leaf_d.dds
+
+
+newmtl tree_oak_trunk_tree_oak_trunk_d.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tree_oak_trunk_d.dds
+
+
+newmtl tree_oak_branch_tree_oak_branch_d.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tree_oak_branch_d.dds
+
+

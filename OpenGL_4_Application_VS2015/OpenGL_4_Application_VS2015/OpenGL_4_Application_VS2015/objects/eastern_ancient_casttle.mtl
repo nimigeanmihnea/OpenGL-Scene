@@ -1,0 +1,82 @@
+newmtl material_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Km 0
+map_Ka textures/Terrain 1_mtl1_ambicol.jpg
+map_Kd textures/grass22.jpg
+map_Bump textures/Terrain 1_mtl1_bumpamt.jpg
+
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd textures/fl1.jpg
+
+newmtl default_roof
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.286275 0.282353 0.254902
+Ks 1 1 1
+Km 0
+map_Kd textures/rf1.jpg
+
+newmtl default_doors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd textures/door_low_4.jpg
+
+newmtl default_casttle
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.74902 0.74902 0.74902
+Ks 1 1 1
+Km 0
+map_Kd textures/sd7.jpg
+
+newmtl default_balcony
+d 1
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd textures/AHB_gold2.jpg
+
+newmtl default_trunks
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd textures/c5eedf53.jpg
+
+newmtl default_leaves
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd textures/Doc4b2.jpg
+

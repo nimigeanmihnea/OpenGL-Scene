@@ -1,0 +1,34 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.12.2016 18:51:42
+
+newmtl Stormtrooper
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\SPG\OBJ\Stormtrooper\Stormtrooper_D.tga
+	map_Kd D:\SPG\OBJ\Stormtrooper\Stormtrooper_D.tga
+	map_bump D:\SPG\OBJ\Stormtrooper\Stormtrooper_N.tga
+	bump D:\SPG\OBJ\Stormtrooper\Stormtrooper_N.tga
+
+newmtl E11Blaster
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\SPG\OBJ\oavz661geuww-E-11_Blaster_Rifle\E-11_Blaster_Rifle\E-11_Blaster_Rifle_D.tga
+	map_Kd D:\SPG\OBJ\oavz661geuww-E-11_Blaster_Rifle\E-11_Blaster_Rifle\E-11_Blaster_Rifle_D.tga
+	map_bump D:\SPG\OBJ\oavz661geuww-E-11_Blaster_Rifle\E-11_Blaster_Rifle\E-11_Blaster_Rifle_N.tga
+	bump D:\SPG\OBJ\oavz661geuww-E-11_Blaster_Rifle\E-11_Blaster_Rifle\E-11_Blaster_Rifle_N.tga
